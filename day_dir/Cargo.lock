@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust_ls"
+name = "day_dir"
 version = "0.1.0"
